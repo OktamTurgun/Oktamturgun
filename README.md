@@ -1,6 +1,22 @@
 <h1 align="center">Hi 👋, I'm Uktam Turgunov</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Python & Django Enthusiast</h3>
 
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/uktamturgunov">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Python+Developer;Django+%26+FastAPI+Learner;Future+Full+Stack+Developer;Always+Building+Projects;Code.+Learn.+Build.&center=true&width=430&height=45">
+	</a>
+</p>
+
+
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/f3/03/06f303c5f5e8f3c4a97cb3eb1a40f800.gif">
 
 - 🌱 I’m currently learning **Django REST, FastAPI and real-world project building**
