@@ -2,13 +2,14 @@
 <h3 align="center">Aspiring Full-Stack Developer | Python & Django Enthusiast</h3>
 
 <p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	<a href="https://github.com/uktamturgunov">
+		<img src="https://komarev.com/ghpvc/?username=uktamturgunov&label=Profile%20views&color=0e75b6&style=flat" alt="uktamturgunov" />
 	</a>
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	<a href="https://github.com/uktamturgunov">
+		<img src="https://img.shields.io/github/followers/uktamturgunov?label=Followers" alt="uktamturgunov" />
 	</a>
 </p>
+
 <br/>
 <p align="center">
 	<a href="https://github.com/uktamturgunov">
