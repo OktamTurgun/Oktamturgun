@@ -26,6 +26,43 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OktamTurgun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+<h1 align="center">Hi 👋, I'm Uktam Turgunov</h1>
+<h3 align="center">Aspiring Full-Stack Developer | Python & Django Enthusiast</h3>
+
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/f3/03/06f303c5f5e8f3c4a97cb3eb1a40f800.gif">
+
+- 🌱 I’m currently learning **Django REST, FastAPI and real-world project building**
+
+- 💻 I’m almost done with the **Python foundation module** and have completed:
+  - ✅ HTML, CSS, Bootstrap
+  - ✅ JavaScript (Basics)
+  - ✅ Django (Old & New)
+  - 🚀 Working on real projects!
+
+- 🔭 I’m building full-stack web apps using Django & FastAPI
+
+- 📫 How to reach me: **uktam.turgunov@example.com**
+
+- 📍 Location: *Tashkent, Uzbekistan*
+
+---
+
+### 🚀 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=uktamturgunov&show_icons=true&theme=radical" alt="stats"/>
+</p>
+
 [![](https://visitcount.itsvg.in/api?id=OktamTurgun&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
