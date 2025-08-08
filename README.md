@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="github-header-image (3).png" alt="Uktam Turgunov — Banner" width="100%">
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/OktamTurgun/OktamTurgun/main/github-header-image (3).png" alt="GitHub Banner" width="100%">
 </p>
 
