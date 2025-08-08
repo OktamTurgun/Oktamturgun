@@ -50,7 +50,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OktamTurgun&show_icons=true&theme=dark" alt="GitHub Stats" width="48%">
-  <img src="https://streak-stats.demolab.com?user=OktamTurgun&theme=dark" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=OktamTurgun&theme=dark" alt="GitHub Streak" width="48%">
 </p>
 
 ---
