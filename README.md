@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/OktamTurgun/OktamTurgun/main/banner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Salom, men Uktam Turgunov</h1>
+<h1 align="center">Hi 👋, I'm Uktam Turgunov</h1>
 <h3 align="center">Python & Django / FastAPI Developer bo‘lish sari</h3>
 
 <p align="center">
