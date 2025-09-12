@@ -38,6 +38,9 @@
 | **Mini Portfolio Websayt** | HTML, CSS | Dizayn asosidagi shaxsiy portfolio sahifasi |
 | **Contacts Manager** | Python | CLI interfeys bilan kontaktlarni boshqarish |
 | **Library Manager** | Python | Kitoblar bazasi uchun CLI dastur |
+| [django_lessons](https://github.com/uktamcoder/django_lessons) | Django | Django bo‘yicha darslar to‘plami |
+| [mahsulot_manager_project](https://github.com/uktamcoder/mahsulot_manager_project) | Python | Mahsulotlar bilan ishlash loyihasi |
+| [python_mini_projects](https://github.com/uktamcoder/python_mini_projects) | Python | Python bo‘yicha mini loyihalar |
 
 💡 **Rejalashtirilgan loyihalar:**  
 - Django asosidagi blog yoki e-commerce  
@@ -66,3 +69,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+✨ "Kichik qadamlardan katta natijalarga!"
