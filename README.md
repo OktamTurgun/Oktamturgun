@@ -51,9 +51,10 @@
 
 ## 📊 GitHub Statistikam
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OktamTurgun&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://streak-stats.demolab.com?user=OktamTurgun&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OktamTurgun&show_icons=true&theme=radical" width="48%">
+  <img src="https://streak-stats.demolab.com?user=OktamTurgun&theme=radical" width="48%">
 </p>
+
 
 ---
 
