@@ -18,7 +18,7 @@
 
 ## 📌 Men haqimda
 - 🌱 Hozirda **Django REST**, **FastAPI** va real loyihalar ishlab chiqishga e’tibor qaratayapman.  
-- ✅ To‘liq yakunlangan asosiy bilimlar: HTML, CSS, Bootstrap, JavaScript (asoslari), Django.  
+- ✅ To‘liq yakunlangan asosiy bilimlar: HTML, CSS, Bootstrap, Python, JavaScript (asoslari), Django, DRF.  
 - 🚀 Keyingi qadamlar: real web-loyihalar va AI integratsiyasi.  
 - 📧 **Email:** uktamturgunov30@gmail.com
 
