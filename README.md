@@ -71,4 +71,4 @@
 </p>
 
 ---
-✨ "Kichik qadamlardan katta natijalarga!"
+✨ "Big success begins with small steps."
