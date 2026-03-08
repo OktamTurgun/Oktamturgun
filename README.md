@@ -17,6 +17,7 @@
 ---
 
 ## 📌 Men haqimda
+- 🌐 **Portfolio:** [OktamTurgun.github.io/my_portfolio](https://OktamTurgun.github.io/my_portfolio)
 - 🌱 Hozirda **Django REST**, **FastAPI** va real loyihalar ishlab chiqishga e’tibor qaratayapman.  
 - ✅ To‘liq yakunlangan asosiy bilimlar: HTML, CSS, Bootstrap, Python, JavaScript (asoslari), Django, DRF.  
 - 🚀 Keyingi qadamlar: real web-loyihalar va AI integratsiyasi.  
@@ -59,6 +60,9 @@
 
 ## 📬 Menga bog‘lanish
 <p align="center">
+  <a href="https://OktamTurgun.github.io/my_portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/uktam-turgunov-68a676348/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
