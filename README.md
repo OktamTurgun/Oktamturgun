@@ -49,9 +49,9 @@
 | Mini Portfolio Website                                                             | HTML, CSS    | Personal portfolio website showcasing projects and skills |
 | Contacts Manager                                                                   | Python       | CLI application for managing contacts                     |
 | Library Manager                                                                    | Python       | Command-line system for managing a book collection        |
-| [django_lessons](https://github.com/uktamcoder/django_lessons)                     | Django       | Structured Django learning materials and exercises        |
-| [mahsulot_manager_project](https://github.com/uktamcoder/mahsulot_manager_project) | Python       | Modular product management system with file storage       |
-| [python_mini_projects](https://github.com/uktamcoder/python_mini_projects)         | Python       | Collection of small Python projects for practice          |
+| [django_lessons](https://github.com/OktamTurgun/django_lessons)                     | Django       | Structured Django learning materials and exercises        |
+| [mahsulot_manager_project](https://github.com/OktamTurgun/mahsulot_manager_project) | Python       | Modular product management system with file storage       |
+| [python_mini_projects](https://github.com/OktamTurgun/python_mini_projects)         | Python       | Collection of small Python projects for practice          |
 
 ---
 
