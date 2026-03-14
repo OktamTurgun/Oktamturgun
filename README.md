@@ -67,15 +67,17 @@
 
 ## 🛣 Backend Developer Roadmap
 
-✔ Core Programming: Python
-✔ Web Development: Django / FastAPI
-✔ Databases: PostgreSQL / SQLite
-✔ API Development: REST APIs
+### ✅ Current Skills
+- ✔ Core Programming: Python
+- ✔ Web Development: Django / FastAPI
+- ✔ Databases: PostgreSQL / SQLite
+- ✔ API Development: REST APIs
 
-🔜 Authentication & Security
-🔜 Microservices Architecture
-🔜 Scalable Backend Systems
-🔜 Cloud Deployment
+### 🔜 Next Goals
+- Authentication & Security
+- Microservices Architecture
+- Scalable Backend Systems
+- Cloud Deployment
 
 ---
 
