@@ -1,56 +1,64 @@
 <!-- Banner -->
+
 <p align="center">
   <img src="github-header-image (3).png" alt="Uktam Turgunov — Banner" width="100%">
 </p>
 
-<!-- Kirish -->
+<!-- Introduction -->
+
 <h1 align="center">Hi 👋, I'm Uktam Turgunov</h1>
-<h3 align="center">Python & Django / FastAPI Developer</h3>
+<h3 align="center">Python | Django | FastAPI Developer</h3>
 
 <!-- Typing Animation -->
+
 <p align="center">
   <a href="https://github.com/OktamTurgun">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Dasturchi;Django+%26+FastAPI+Learner;Always+Building+Projects;Code.+Learn.+Build.&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Django+%26+FastAPI+Enthusiast;Always+Building+Projects;Code.+Learn.+Build.&center=true&width=500&height=45">
   </a>
 </p>
 
 ---
 
-## 📌 Men haqimda
-- 🌐 **Portfolio:** [OktamTurgun.github.io/my_portfolio](https://OktamTurgun.github.io/my_portfolio)
-- 🌱 Hozirda **Django REST**, **FastAPI** va real loyihalar ishlab chiqishga e’tibor qaratayapman.  
-- ✅ To‘liq yakunlangan asosiy bilimlar: HTML, CSS, Bootstrap, Python, JavaScript (asoslari), Django, DRF.  
-- 🚀 Keyingi qadamlar: real web-loyihalar va AI integratsiyasi.  
-- 📧 **Email:** uktamturgunov30@gmail.com
+## 📌 About Me
+
+* 🌐 **Portfolio:** [OktamTurgun.github.io/my_portfolio](https://OktamTurgun.github.io/my_portfolio)
+* 🌱 Currently focusing on **Django REST**, **FastAPI**, and building real-world projects.
+* ✅ Completed core technologies: **HTML, CSS, Bootstrap, Python, JavaScript (Basics), Django, DRF**.
+* 🚀 Next goals: building real web applications and integrating **AI-powered features**.
+* 📧 **Email:** [uktamturgunov30@gmail.com](mailto:uktamturgunov30@gmail.com)
 
 ---
 
-## 🛠 Texnologiyalar va Ko‘nikmalar
+## 🛠 Technologies & Skills
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,fastapi,postgresql,sqlite,git,github,vscode" />
 </p>
 
 ---
 
-## 🚀 Tanlangan Loyihalar
+## 🚀 Featured Projects
 
-| Nomi | Texnologiya | Tavsif |
-|------|-------------|--------|
-| **Mini Portfolio Websayt** | HTML, CSS | Dizayn asosidagi shaxsiy portfolio sahifasi |
-| **Contacts Manager** | Python | CLI interfeys bilan kontaktlarni boshqarish |
-| **Library Manager** | Python | Kitoblar bazasi uchun CLI dastur |
-| [django_lessons](https://github.com/uktamcoder/django_lessons) | Django | Django bo‘yicha darslar to‘plami |
-| [mahsulot_manager_project](https://github.com/uktamcoder/mahsulot_manager_project) | Python | Mahsulotlar bilan ishlash loyihasi |
-| [python_mini_projects](https://github.com/uktamcoder/python_mini_projects) | Python | Python bo‘yicha mini loyihalar |
+| Project                                                                            | Technologies | Description                                                  |
+| ---------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| [ecommerce-api](https://github.com/OktamTurgun/ecommerce-api)                      | Python       | REST-style backend for managing products and orders          |
+| Mini Portfolio Website                                                             | HTML, CSS    | Personal portfolio website showcasing projects and skills    |
+| Contacts Manager                                                                   | Python       | CLI application for managing contacts (add, update, delete)  |
+| Library Manager                                                                    | Python       | Command-line system for managing a book collection           |
+| [django_lessons](https://github.com/uktamcoder/django_lessons)                     | Django       | Structured Django learning materials and practical exercises |
+| [mahsulot_manager_project](https://github.com/uktamcoder/mahsulot_manager_project) | Python       | Modular product management system with file storage          |
+| [python_mini_projects](https://github.com/uktamcoder/python_mini_projects)         | Python       | Collection of small Python projects for practice             |
 
-💡 **Rejalashtirilgan loyihalar:**  
-- Django asosidagi blog yoki e-commerce  
-- FastAPI bilan API loyihalar  
-- AI chat yoki assistant tizimlari
+💡 **Planned Projects:**
+
+* A Django-based blog or e-commerce application
+* API projects using FastAPI
+* AI-powered chat or assistant systems
 
 ---
 
-## 📊 GitHub Statistikam 
+## 📊 GitHub Statistics
+
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=OktamTurgun&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://streak-stats.demolab.com?user=OktamTurgun&theme=radical" alt="GitHub Streak" width="48%"> 
@@ -58,7 +66,8 @@
 
 ---
 
-## 📬 Menga bog‘lanish
+## 📬 Contact Me
+
 <p align="center">
   <a href="https://OktamTurgun.github.io/my_portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -75,4 +84,6 @@
 </p>
 
 ---
+
 ✨ "Big success begins with small steps."
+
