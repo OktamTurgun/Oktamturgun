@@ -43,15 +43,16 @@
 
 ## 🚀 Featured Projects
 
-| Project                                                                            | Technologies | Description                                               |
-| ---------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------- |
-| [ecommerce-api](https://github.com/OktamTurgun/ecommerce-api)                      | Python       | REST-style backend for managing products and orders       |
-| Mini Portfolio Website                                                             | HTML, CSS    | Personal portfolio website showcasing projects and skills |
-| Contacts Manager                                                                   | Python       | CLI application for managing contacts                     |
-| Library Manager                                                                    | Python       | Command-line system for managing a book collection        |
-| [django_lessons](https://github.com/OktamTurgun/django_lessons)                     | Django       | Structured Django learning materials and exercises        |
-| [mahsulot_manager_project](https://github.com/OktamTurgun/mahsulot_manager_project) | Python       | Modular product management system with file storage       |
-| [python_mini_projects](https://github.com/OktamTurgun/python_mini_projects)         | Python       | Collection of small Python projects for practice          |
+| Project | Technologies | Description |
+|---|---|---|
+| [tashkent-puppet-theater](https://github.com/OktamTurgun/tashkent-puppet-theater) | Python, Django, DRF, React, PostgreSQL, Redis, Docker | Full-stack web portal and REST API for Tashkent Puppet Theater — with ticket booking, interactive hall scheme, multilingual support (UZ/RU/EN), JWT auth, Celery tasks, and Swagger docs · [Live →](https://marionettes.uz) |
+| [ecommerce-api](https://github.com/OktamTurgun/ecommerce-api) | Python | REST-style backend for managing products and orders |
+| Mini Portfolio Website | HTML, CSS | Personal portfolio website showcasing projects and skills |
+| Contacts Manager | Python | CLI application for managing contacts |
+| Library Manager | Python | Command-line system for managing a book collection |
+| [django_lessons](https://github.com/OktamTurgun/django_lessons) | Django | Structured Django learning materials and exercises |
+| [mahsulot_manager_project](https://github.com/OktamTurgun/mahsulot_manager_project) | Python | Modular product management system with file storage |
+| [python_mini_projects](https://github.com/OktamTurgun/python_mini_projects) | Python | Collection of small Python projects for practice |
 
 ---
 
