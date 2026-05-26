@@ -5,11 +5,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Uktam Turgunov</h1>
-<h3 align="center">Python | Django | FastAPI Backend Developer</h3>
+<h3 align="center">Python · Django · DRF · PostgreSQL · Docker</h3>
 
 <p align="center">
   <a href="https://github.com/OktamTurgun">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Backend+Developer;Django+%26+FastAPI+Developer;Always+Building+Projects;Code.+Learn.+Build.&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Developer;Django+%26+DRF+Specialist;Building+Real-World+Projects;Code.+Learn.+Build.&center=true&width=500&height=45">
   </a>
 </p>
 
@@ -17,110 +17,98 @@
 
 ## 📌 About Me
 
-* 🌐 **Portfolio:**
-  https://OktamTurgun.github.io/my_portfolio
-
-* 🌱 Currently focusing on:
-  **Django REST Framework, FastAPI, and building real-world backend projects**
-
-* ✅ Core technologies I work with:
-  **HTML, CSS, Bootstrap, Python, JavaScript (Basics), Django, DRF**
-
-* 🚀 My goal is to become a **professional backend developer** and build scalable web systems.
-
-* 📧 **Email:**
-  [uktamturgunov30@gmail.com](mailto:uktamturgunov30@gmail.com)
+* 🌐 **Portfolio:** [OktamTurgun.github.io/my_portfolio](https://OktamTurgun.github.io/my_portfolio)
+* 🎓 Currently studying at **42.uz** (Express Backend & Algorithms)
+* 🛠 Building production-ready backends with **Django REST Framework, PostgreSQL, Redis, and Docker**
+* 🚀 Goal: become a professional backend developer and build scalable, maintainable web systems
+* 📧 **Email:** [uktamturgunov30@gmail.com](mailto:uktamturgunov30@gmail.com)
 
 ---
 
-## 🛠 Technologies & Skills
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,django,fastapi,postgresql,sqlite,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,git,github,vscode,html,css,js" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Technologies | Description |
+| Project | Stack | Description |
 |---|---|---|
-| [tashkent-puppet-theater](https://github.com/OktamTurgun/tashkent-puppet-theater) | Python, Django, DRF, React, PostgreSQL, Redis, Docker | Full-stack web portal and REST API for Tashkent Puppet Theater — with ticket booking, interactive hall scheme, multilingual support (UZ/RU/EN), JWT auth, Celery tasks, and Swagger docs · [Live →](https://marionettes.uz) |
-| [ecommerce-api](https://github.com/OktamTurgun/ecommerce-api) | Python | REST-style backend for managing products and orders |
-| Mini Portfolio Website | HTML, CSS | Personal portfolio website showcasing projects and skills |
-| Contacts Manager | Python | CLI application for managing contacts |
-| Library Manager | Python | Command-line system for managing a book collection |
-| [django_lessons](https://github.com/OktamTurgun/django_lessons) | Django | Structured Django learning materials and exercises |
-| [mahsulot_manager_project](https://github.com/OktamTurgun/mahsulot_manager_project) | Python | Modular product management system with file storage |
-| [python_mini_projects](https://github.com/OktamTurgun/python_mini_projects) | Python | Collection of small Python projects for practice |
+| [tashkent-puppet-theater](https://github.com/OktamTurgun/tashkent-puppet-theater) | Django, DRF, React, PostgreSQL, Redis, Celery, Docker | Full-stack web portal for Tashkent Puppet Theater — ticket booking, interactive hall scheme, multilingual support (UZ/RU/EN), JWT auth, Celery tasks, Swagger docs · [Live →](https://marionettes.uz) |
+| [educore-crm](https://github.com/OktamTurgun/educore-crm) | Django, DRF, PostgreSQL, Redis, Celery, SimpleJWT | Multi-school management CRM backend — Google OAuth2, absence notifications, monthly report generation, audit trail, soft delete, request logging · [Live →](https://educore-crm.onrender.com) |
+| [instagram-clone-api](https://github.com/OktamTurgun/instagram-clone-api) | Django, DRF, PostgreSQL, SimpleJWT | REST API clone of Instagram core features with full Swagger documentation · [Live →](https://instagram-clone-api-yzug.onrender.com/api/docs/) |
+| [news-project](https://github.com/OktamTurgun/news-project) | Django, DRF, Backblaze B2, Neon.tech | News platform with multilingual support, Backblaze B2 media storage, and Neon PostgreSQL · [Live →](https://news-project-864b.onrender.com) |
+| [ecommerce-api](https://github.com/OktamTurgun/ecommerce-api) | Python, Django | REST-style backend for managing products and orders |
 
 ---
 
 ## 🧠 Currently Learning
 
-* Django REST Framework (advanced features)
-* FastAPI for high-performance APIs
-* Backend architecture and API design
-* Database optimization with PostgreSQL
-* Testing in Python (pytest, unittest)
+* Advanced Django REST Framework patterns
+* Redis caching strategies and Celery task optimization
+* System design and scalable backend architecture
+* Algorithm problem solving — NeetCode 150 roadmap (LeetCode)
 
 ---
 
 ## 🛣 Backend Developer Roadmap
 
-### ✅ Current Skills
-- ✔ Core Programming: Python
-- ✔ Web Development: Django / FastAPI
-- ✔ Databases: PostgreSQL / SQLite
-- ✔ API Development: REST APIs
+### ✅ Completed
+- Python core & OOP
+- Django / DRF — REST API development
+- PostgreSQL — relational database design
+- Redis — caching and Celery task brokering
+- Docker & Docker Compose — containerized deployments
+- JWT authentication (SimpleJWT), Google OAuth2
+- CI/CD via GitHub Actions
+- Cloud deployment — Render, Vercel, Neon.tech, Backblaze B2
 
 ### 🔜 Next Goals
-- Authentication & Security
-- Microservices Architecture
-- Scalable Backend Systems
-- Cloud Deployment
+- Microservices architecture
+- WebSocket & real-time features
+- Advanced system design patterns
+- VPS deployment (Hetzner / DigitalOcean)
 
 ---
 
 ## 🧪 Testing & Code Quality
 
-* Writing unit tests with **unittest**
-* Practicing **Test-Driven Development (TDD)**
-* Building reliable backend systems
-* Improving code readability and maintainability
+* Unit and integration tests with **pytest** and **unittest**
+* API documentation with **drf-spectacular** (Swagger / OpenAPI)
+* Conventional commits and feature branch Git workflow
+* Clean, readable, and maintainable code as a core practice
 
 ---
 
 ## 📚 Learning Philosophy
 
-I believe that strong developers grow by building real projects.
+Strong developers grow by building real projects.
 
-My learning approach focuses on:
-
-* Building practical projects
-* Writing clean and readable code
-* Writing clean and maintainable code
-* Continuously improving problem-solving skills
-* Learning new technologies step by step
+* Build first, then deepen theory
+* Write clean, maintainable code from day one
+* Solve real problems — not just tutorials
+* Improve problem-solving skills continuously
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center"> 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OktamTurgun&show_icons=true&theme=radical" width="48%">
-  <img src="https://streak-stats.demolab.com?user=OktamTurgun&theme=radical" width="48%"> 
+  <img src="https://streak-stats.demolab.com?user=OktamTurgun&theme=radical" width="48%">
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-* Build several production-ready backend projects
-* Master Django REST Framework and FastAPI
+* Ship 2–3 more production-ready backend projects
+* Master advanced DRF patterns and async Django
 * Contribute to open-source projects
-* Improve system design and backend architecture skills
-* Get a professional backend developer position
+* Land a professional backend developer position
 
 ---
 
